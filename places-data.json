@@ -1,0 +1,187 @@
+{
+  "place_id": "ChIJb0YcDT41XBMRmmIkNIbmtJc",
+  "name": "Πάρε & έφυγες..",
+  "rating": 5,
+  "user_ratings_total": 14,
+  "formatted_phone_number": "2645 071390",
+  "website": null,
+  "geometry": {
+    "location": {
+      "lat": 38.7976814,
+      "lng": 20.7168335
+    }
+  },
+  "formatted_address": {
+    "el": "Καρυώτες 311 00, Ελλάδα",
+    "en": "Καρυώτες 311 00, Greece"
+  },
+  "opening_hours": {
+    "open_now": false,
+    "weekday_text": {
+      "el": [
+        "Δευτέρα: 6:00 π.μ. – 6:00 μ.μ.",
+        "Τρίτη: 6:00 π.μ. – 6:00 μ.μ.",
+        "Τετάρτη: 6:00 π.μ. – 6:00 μ.μ.",
+        "Πέμπτη: 6:00 π.μ. – 12:00 π.μ.",
+        "Παρασκευή: 12:00 π.μ. – 6:00 μ.μ.",
+        "Σάββατο: 6:00 π.μ. – 6:00 μ.μ.",
+        "Κυριακή: 7:00 π.μ. – 6:00 μ.μ."
+      ],
+      "en": [
+        "Monday: 6:00 AM – 6:00 PM",
+        "Tuesday: 6:00 AM – 6:00 PM",
+        "Wednesday: 6:00 AM – 6:00 PM",
+        "Thursday: 6:00 AM – 12:00 AM",
+        "Friday: 12:00 AM – 6:00 PM",
+        "Saturday: 6:00 AM – 6:00 PM",
+        "Sunday: 7:00 AM – 6:00 PM"
+      ]
+    },
+    "periods": [
+      {
+        "open": {
+          "day": 0,
+          "hour": 7,
+          "minute": 0
+        },
+        "close": {
+          "day": 0,
+          "hour": 18,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 1,
+          "hour": 6,
+          "minute": 0
+        },
+        "close": {
+          "day": 1,
+          "hour": 18,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 6,
+          "minute": 0
+        },
+        "close": {
+          "day": 2,
+          "hour": 18,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 6,
+          "minute": 0
+        },
+        "close": {
+          "day": 3,
+          "hour": 18,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 6,
+          "minute": 0
+        },
+        "close": {
+          "day": 5,
+          "hour": 18,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 6,
+          "minute": 0
+        },
+        "close": {
+          "day": 6,
+          "hour": 18,
+          "minute": 0
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "uri": "https://lh3.googleusercontent.com/places/ANXAkqHeYH3Rc9syRKEAPftJHX0u7g5YmVTWy927rqm27Sj8XYHhtPr5zn2AGlIlpNnrCnXJxEmHStLCcSkuWSGGf5gG6S9-977VR-g=s4800-w1200-h900",
+      "attribution": "Πάρε & έφυγες.."
+    },
+    {
+      "uri": "https://lh3.googleusercontent.com/places/ANXAkqFIimUprKzhQoInkzfdgVoziIcJKfcYsR9Ih3NWgpDQNaBljdRFf9OylbkbjG-EoK_zI4NR7IWFzOKyJoreaRjX-jKdc0lNxrY=s4800-w1200-h900",
+      "attribution": "Πάρε & έφυγες.."
+    },
+    {
+      "uri": "https://lh3.googleusercontent.com/places/ANXAkqFTHcC_x4OpRToQH6ndbqvN9qkx-YFiYwLDOoKODydo8PlvPTloKNqSPBaagFck-wavw3bbt2HhzpZFJhoCmtjOQFuiA1s2Wqc=s4800-w1200-h900",
+      "attribution": "Πάρε & έφυγες.."
+    },
+    {
+      "uri": "https://lh3.googleusercontent.com/place-photos/AJRVUZPi-BRElu6rB_PTrempGXPoTuTAtpSWh4w2krklmvfiH0NCFnrvsT1T-CFEs-guzPFeIALwcs38B-hi5J92N8mSC35T6CpjJg2fTELmKC8YOm-pcbABYUbAYsVxcpDnNYaOv5gj0yZDdW0DL25sHYNQ=s4800-w1200-h900",
+      "attribution": "Βασίλης"
+    },
+    {
+      "uri": "https://lh3.googleusercontent.com/place-photos/AJRVUZNM4p3ROTBfSGVti7d6vJBZ8WI2hSczQ0_ymL1vDCUPHzYKD84hFB_zS8WB29YulfQOWzAY3hFiOD_XKMRHHtx55_Bt87jNgzpZ4cZlzP5XOPvCqweLeDX45ESG7pitEqoUIjr9szie_dHuRO4ZBNEGrA=s4800-w1200-h809",
+      "attribution": "Panos Vlassopoulos"
+    },
+    {
+      "uri": "https://lh3.googleusercontent.com/places/ANXAkqE5dH0hOzL837bzNvjqw8ND2vH_wifL29DUFATbGiUSOxkl6bZ-3aKXx1kFTpoDMgX3Ws32gq8hnkrK_liYxA3s3dUSiIoImZ0=s4800-w1200-h900",
+      "attribution": "Πάρε & έφυγες.."
+    },
+    {
+      "uri": "https://lh3.googleusercontent.com/places/ANXAkqFdDUMMzGTOCbycL4DwHYoFFUCO-rVgVkCsIKxc4KBlJOnpTtmVOe4oH1w7LZX2ZN0rNzW2huMfKBoRZowZRTRs37lCOWm7IO0=s4800-w1200-h900",
+      "attribution": "Πάρε & έφυγες.."
+    },
+    {
+      "uri": "https://lh3.googleusercontent.com/places/ANXAkqH1XxDzdtFQjjy1azYqBltjBL01AY1z7m1TN1twNTRgtRi4FjRgIr0OBddx9tL6sknm89wrnOOXOicOzzQV7q9FHYP_rTtNLUw=s4800-w1200-h900",
+      "attribution": "Πάρε & έφυγες.."
+    }
+  ],
+  "reviews": [
+    {
+      "author_name": "Βασίλης",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUAaQxEOfi3I6ySv9V-gniQimSpYD8Ml6CRIiQSD2hjPp6RSHvhNw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "time": 1755616225,
+      "text": "Ένα νέο μαγαζί για καφέ και σνακ, πάνω στον δρόμο.\nΠολύ ωραίος καφές illy, είτε για πακέτο είτε για να καθίσεις στο χώρο του μαγαζιού."
+    },
+    {
+      "author_name": "Γιώργος Κυριαζής",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXDTVaRMfiyu_JAYBdmXG-z46r_Yl34nIybIRaAdemy_cf-2W-C=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "time": 1759059864,
+      "text": "Πολύ ωραίος καφές,άψογα φτιαγμένος,ωραιότατα,ολόφρεσκα σάντουιτς κι εξυπηρέτηση με χαμόγελο κι ευγένεια από το κορίτσι που δούλευε εκεί!Πέρασα από μπροστά από το μαγαζί με κατεύθυνση προς Λευκάδα,αλλά κάτι μου έκανε κλικ κι έκανα αναστροφή για να σταματήσω εκεί να πάρω προμήθειες!Χαίρομαι που δεν διαψεύστηκα!"
+    },
+    {
+      "author_name": "Ν.png7",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUguGpF-4IgBvgAqzT9KiBYlhoA4KBPOJ3gTPRzWsdQBkkOGT0=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "time": 1755089246,
+      "text": "Πολύ ωραίος καφές!!!"
+    },
+    {
+      "author_name": "Θεοδωρα Ψειμαδα",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKDpVZnFmQtQP7OQVXucgI3298-0TY5Gi9mq0Wsd_Id4eJBBA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "time": 1759652979,
+      "text": "Ευγενικοί χαμογελαστοί καλός καφές."
+    },
+    {
+      "author_name": "Δημήτρης Σαμπανίδης",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzNYA-yvS4m7YnLC7XTeGLzLHGJ3l5K_BrBOqjAKDNuOFjlEno=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "time": 1777734294,
+      "text": "Πολύ ωραίο μαγαζάκι για μια στάση γρήγορη για ενα σνακ για ενα καφεδάκι, με τράβηξε για αρχή η ονομασία , αλλα μπορώ να πω οτι ο καφές του ειναι τέλειος σωστός, σίγουρα θα ξαναπεράσουμε απο εκει!!!! Ειδικά για εκδρομής με μηχανές μια στάση αν ειναι για να επιστρέψουν απο Λευκάδα, το προτείνω, σταματάς καφεδάκι εξοπλισμός ενα τελευταίο τσεκ μηχανής και για σας..........."
+    }
+  ],
+  "fetched_at": "2026-05-03T18:25:07.497Z"
+}
