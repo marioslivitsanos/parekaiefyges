@@ -73,12 +73,19 @@
     .nav-logo-link picture { display: block; line-height: 0; }
 
     .nav-logo {
-      height: 82px;
+      height: 150px;
       width: auto;
       display: block;
-      transition: height 0.4s var(--ease);
+      clip-path: inset(16% 0 16% 0);
+      margin-top: -24px;
+      margin-bottom: -24px;
+      transition: height 0.4s var(--ease), margin 0.4s var(--ease);
     }
-    #nav.scrolled .nav-logo { height: 58px; }
+    #nav.scrolled .nav-logo {
+      height: 100px;
+      margin-top: -16px;
+      margin-bottom: -16px;
+    }
 
     .nav-links {
       display: flex;
@@ -215,9 +222,9 @@
       margin-bottom: 0.5rem;
       opacity: 0;
       animation: fadeUp 0.9s 0.2s var(--ease) forwards;
-      border-top: 1px solid var(--border);
-      border-bottom: 1px solid var(--border);
-      padding: 0.5rem 0;
+      border-top: 1px solid rgba(255,255,255,0.15);
+      border-bottom: 1px solid rgba(255,255,255,0.15);
+      padding: 0.1rem 0;
     }
     .hero-logo-wrap picture { display: block; }
     .hero-logo-wrap img {
@@ -617,11 +624,17 @@
 
     .reviews-grid {
       display: grid;
-      grid-template-columns: repeat(2, 1fr);
+      grid-template-columns: 1fr;
       gap: 1.5rem;
     }
-    .reviews-grid.cols-3 { grid-template-columns: repeat(3, 1fr); }
-    .reviews-grid.cols-3 .review-card:last-child:nth-child(3n+2) { grid-column: 2; }
+    @media (min-width: 640px) {
+      .reviews-grid { grid-template-columns: repeat(2, 1fr); }
+      .reviews-grid.cols-3 { grid-template-columns: repeat(2, 1fr); }
+    }
+    @media (min-width: 1024px) {
+      .reviews-grid.cols-3 { grid-template-columns: repeat(3, 1fr); }
+      .reviews-grid.cols-3 .review-card:last-child:nth-child(3n+2) { grid-column: 2; }
+    }
 
     .review-card {
       background: var(--off);
@@ -1031,8 +1044,6 @@
       #nav { padding: 0.8rem 1.5rem; }
       #nav.scrolled { padding: 0.6rem 1.5rem; }
       .vibe-bg-logo { width: 70%; opacity: 0.1; }
-      .reviews-grid { grid-template-columns: 1fr; }
-      .reviews-grid.cols-3 { grid-template-columns: 1fr; }
       .gallery-grid { grid-template-columns: repeat(2, 1fr); grid-auto-rows: 180px; }
       .gallery-featured { grid-column: 1 / -1; grid-row: span 1; }
       .gallery-wide { grid-column: span 1; }
@@ -1048,7 +1059,6 @@
       .coffee-grid { grid-template-columns: repeat(2, 1fr); gap: 0.65rem; }
       .snack-grid  { grid-template-columns: repeat(2, 1fr); gap: 0.65rem; }
       .coffee-card { padding: 1.5rem 1rem; }
-      .reviews-grid { grid-template-columns: 1fr; }
       .hero-actions { flex-direction: column; width: 100%; }
       .btn-fill, .btn-outline { width: 100%; justify-content: center; }
       .about-stats { flex-wrap: wrap; gap: 1.25rem; }
@@ -1063,8 +1073,8 @@
       .vibe-quote { font-size: clamp(1.3rem, 5vw, 1.8rem); }
       .footer-links { gap: 1rem; }
       .nav-links { width: 100%; }
-      .nav-logo { height: 56px; }
-      #nav.scrolled .nav-logo { height: 44px; }
+      .nav-logo { height: 110px; margin-top: -17px; margin-bottom: -17px; }
+      #nav.scrolled .nav-logo { height: 76px; margin-top: -12px; margin-bottom: -12px; }
       .menu-cat-header { gap: 1rem; }
     }
   </style>
