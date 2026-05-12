@@ -1,0 +1,23 @@
+# Abhängigkeiten
+node_modules/
+
+# Umgebungsvariablen (API-Keys)
+.env
+.env.local
+.env.*
+
+# Entwicklungs-Tools
+fetch-places.mjs
+screenshot.mjs
+package.json
+package-lock.json
+
+# Nicht benötigte Dateien
+wordpress-theme.zip
+"CLAUDE (2).md"
+temporary screenshots/
+*.mjs
+
+# System
+.DS_Store
+Thumbs.db
